@@ -1,5 +1,5 @@
 
-
+https://arxiv.org/abs/2103.00020
 Model name         Dataset          Top-1 accuarcy
 CLIP (ViT-L/14)  ImageNet-256          72.3%
 CLIP (ViT-B/32)  ImageNet-256          61.82%
